@@ -61,10 +61,10 @@ Overall, the dealership is experiencing strong sales growth primarily through in
 
 # 📸 Dashboard Preview
 
-![Car Sales Analytics Dashboard](https://github.com/irfan-cd/Car-Sales-Dashboard/blob/main/car%20sales%20overview%20preview.png)
+![Car Sales Analytics Dashboard]((https://github.com/irfan-cd/Car-Sales-Dashboard./blob/main/dashboard%20images/car%20sales%20overview%20preview.png))
 
 ---
-![Car Sales Analytics Dashboard](https://github.com/irfan-cd/Car-Sales-Dashboard/blob/main/car%20sales%20details%20preview.png)
+![Car Sales Analytics Dashboard](https://github.com/irfan-cd/Car-Sales-Dashboard./blob/main/dashboard%20images/car%20sales%20details%20preview.png)
 
 ---
 
